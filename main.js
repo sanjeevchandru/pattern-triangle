@@ -6,10 +6,10 @@ for(let i=1;i<=n;i++){
         document.write("&nbsp"+"&nbsp");
     }
     for(let j=1;j<=i;j++){
-        document.write(i);
+        document.write("*");
     }
     for(let l=1;l<=i;l++){
-        document.write(i)
+        document.write("*")
     }
     document.write("<br>");
 }
